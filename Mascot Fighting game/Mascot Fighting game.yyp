@@ -21,7 +21,12 @@
   "resources":[
     {"id":{"name":"Grimace","path":"objects/Grimace/Grimace.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Gravity","path":"scripts/Gravity/Gravity.yy",},},
+    {"id":{"name":"a","path":"sprites/a/a.yy",},},
     {"id":{"name":"GrimaceWalk","path":"sprites/GrimaceWalk/GrimaceWalk.yy",},},
+    {"id":{"name":"Idle","path":"sprites/Idle/Idle.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
