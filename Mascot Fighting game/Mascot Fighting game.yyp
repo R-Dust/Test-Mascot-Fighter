@@ -19,7 +19,9 @@
   },
   "name":"Mascot Fighting game",
   "resources":[
+    {"id":{"name":"Grimace","path":"objects/Grimace/Grimace.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"GrimaceWalk","path":"sprites/GrimaceWalk/GrimaceWalk.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
