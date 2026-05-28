@@ -9,8 +9,8 @@
   },
   "name":"TileSet1",
   "out_columns":1,
-  "out_tilehborder":2,
-  "out_tilevborder":2,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
   "parent":{
     "name":"Mascot Fighting game",
     "path":"Mascot Fighting game.yyp",
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"ground",
+    "path":"sprites/ground/ground.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
